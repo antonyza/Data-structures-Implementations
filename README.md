@@ -1,4 +1,4 @@
-# 🖥️ Database Systems Implementation
+# Database Systems Implementation
 A low-level implementation of core database systems (Heap Files, BPlus Trees and Memory Chunk Management)
 
 Written in C with a provided block-level simulation.
@@ -16,12 +16,12 @@ Developed as part of the **Implementation of Database Systems** (Υλοποίη�
 - Heap File Handler (for External Merge Sort only)
 
 ## My contribution
-- [x] [Heap File Implementation](./Heap-File)
-- [x] [BPlus Tree Implementation](./BPlus-Tree)
-- [x] [External Sort](./External-Merge-Sort)
-- [x] Testing scenarios to verify integrity for the above
+- [Heap File Implementation](./Heap-File)
+- [BPlus Tree Implementation](./BPlus-Tree)
+- [External Sort](./External-Merge-Sort)
+- Testing scenarios to verify integrity for the above
 
-## :gear: How to Run
+## How to Run
 ### Requirements
 - OS: Linux or Windows via WSL
 - Compiler: GCC
