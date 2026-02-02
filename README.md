@@ -19,9 +19,3 @@ Developed as part of the **Implementation of Database Systems** (Υλοποίη�
 - [Heap File Implementation](./Heap-File)
 - [BPlus Tree Implementation](./BPlus-Tree)
 - [External Sort](./External-Merge-Sort)
-- Testing scenarios to verify integrity for the above
-External Merge Sort:
-```
-cd External-Merge-Sort
-make sort_run
-```
