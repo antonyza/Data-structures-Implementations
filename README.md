@@ -20,30 +20,6 @@ Developed as part of the **Implementation of Database Systems** (Υλοποίη�
 - [BPlus Tree Implementation](./BPlus-Tree)
 - [External Sort](./External-Merge-Sort)
 - Testing scenarios to verify integrity for the above
-
-## How to Run
-### Requirements
-- OS: Linux or Windows via WSL
-- Compiler: GCC
-
-### Steps
-1. Clone the repository:
-```
-git clone https://github.com/antonyzah/DBMS-Data-Structures-Implementations.git
-cd DBMS-Data-Structures-Implementations
-```
-2. Navigate to the desired implementation folder and run the test:
-
-Heap File:
-```
-cd Heap-File
-make hp_run
-```
-BPlus Tree:
-```
-cd BPlus-Tree
-make bplus_run
-```
 External Merge Sort:
 ```
 cd External-Merge-Sort
